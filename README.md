@@ -8,22 +8,19 @@ This is a simple Node.js project using Express.js framework.
 
    ```bash
    git clone https://github.com/XecFardin/crud_project.git
+   ```
 
 Sure, here's a basic README.md file for a Node.js Express.js project:
 
 markdown
 Copy code
+
 # Node.js Express.js Project
 
 This is a simple Node.js project using Express.js framework.
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/your-project.git
-   
 Install dependencies:
 npm install
 
@@ -52,4 +49,3 @@ Push to the branch (git push origin feature/your-feature).
 Create a new Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
