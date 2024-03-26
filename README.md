@@ -28,6 +28,8 @@ Usage
 Start the server:
 npm start
 
+---
+
 This will start the server at http://localhost:3000.
 
 Access the application in your browser or using tools like cURL or Postman.
